@@ -1,0 +1,20 @@
+# PYTHON CACHE
+__pycache__/
+*.pyc
+*.pyo
+
+# ENVIRONMENT
+venv/
+.env/
+.venv/
+
+# IDE / EDITOR
+.vscode/
+.idea/
+
+# SYSTEM FILES
+.DS_Store
+Thumbs.db
+
+# STREAMLIT
+.streamlit/

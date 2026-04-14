@@ -1,0 +1,124 @@
+category,name,value
+top_drivers,Lewis  Hamilton ,4681.5
+top_drivers,Sebastian  Vettel ,3098.0
+top_drivers,Max  Verstappen ,2755.5
+top_drivers,Fernando  Alonso ,2300.0
+top_drivers,Kimi  RÃ¤ikkÃ¶nen ,1873.0
+top_drivers,Nico  Rosberg ,1594.5
+top_drivers,Sergio  Perez ,1593.0
+top_drivers,Michael  Schumacher ,1566.0
+top_drivers,Daniel  Ricciardo ,1322.0
+top_drivers,Jenson  Button ,1235.0
+top_teams,Ferrari,10701.6
+top_teams,Mercedes,7315.5
+top_teams,McLaren Mercedes,4246.0
+top_teams,Red Bull Racing Renault,2298.0
+top_teams,Renault,1779.0
+top_teams,Red Bull Racing Honda,1274.5
+top_teams,Red Bull Racing TAG Heuer,1247.0
+top_teams,Williams Renault,1206.0
+top_teams,Red Bull Racing Honda RBPT,1136.0
+top_teams,Force India Mercedes,1090.0
+top_nationalities,GBR,11366.7
+top_nationalities,GER,7961.5
+top_nationalities,FIN,4397.5
+top_nationalities,FRA,3561.4
+top_nationalities,ESP,3472.5
+top_nationalities,BRA,3415.0
+top_nationalities,AUS,2996.5
+top_nationalities,NED,2784.5
+top_nationalities,ITA,1989.2
+top_nationalities,MEX,1687.0
+year_trend,1950,164.0
+year_trend,1951,174.0
+year_trend,1952,171.5
+year_trend,1953,187.0
+year_trend,1954,199.1
+year_trend,1955,166.9
+year_trend,1956,186.5
+year_trend,1957,186.0
+year_trend,1958,252.0
+year_trend,1959,213.0
+year_trend,1960,233.0
+year_trend,1961,196.0
+year_trend,1962,210.0
+year_trend,1963,222.0
+year_trend,1964,248.0
+year_trend,1965,242.0
+year_trend,1966,216.0
+year_trend,1967,273.0
+year_trend,1968,298.0
+year_trend,1969,275.0
+year_trend,1970,324.0
+year_trend,1971,275.0
+year_trend,1972,300.0
+year_trend,1973,375.0
+year_trend,1974,375.0
+year_trend,1975,325.0
+year_trend,1976,400.0
+year_trend,1977,425.0
+year_trend,1978,400.0
+year_trend,1979,347.0
+year_trend,1980,339.0
+year_trend,1981,375.0
+year_trend,1982,399.0
+year_trend,1983,369.0
+year_trend,1984,383.5
+year_trend,1985,397.0
+year_trend,1986,396.0
+year_trend,1987,395.0
+year_trend,1988,378.0
+year_trend,1989,395.0
+year_trend,1990,397.0
+year_trend,1991,403.0
+year_trend,1992,416.0
+year_trend,1993,416.0
+year_trend,1994,416.0
+year_trend,1995,442.0
+year_trend,1996,416.0
+year_trend,1997,442.0
+year_trend,1998,416.0
+year_trend,1999,416.0
+year_trend,2000,442.0
+year_trend,2001,442.0
+year_trend,2002,442.0
+year_trend,2003,624.0
+year_trend,2004,702.0
+year_trend,2005,738.0
+year_trend,2006,702.0
+year_trend,2007,663.0
+year_trend,2008,702.0
+year_trend,2009,643.5
+year_trend,2010,1919.0
+year_trend,2011,1919.0
+year_trend,2012,2020.0
+year_trend,2013,1919.0
+year_trend,2014,2020.0
+year_trend,2015,1919.0
+year_trend,2016,2121.0
+year_trend,2017,2020.0
+year_trend,2018,2121.0
+year_trend,2019,2140.0
+year_trend,2020,1734.0
+year_trend,2021,2207.5
+year_trend,2022,2350.0
+year_trend,2023,2458.0
+year_trend,2024,887.0
+era_performance,1950–2000,16307.5
+era_performance,2001–2010,7577.5
+era_performance,2011–2020,19933.0
+era_performance,2021–2024,7902.5
+summary,total_points,51720.5
+summary,num_drivers,399
+summary,num_teams,204
+summary,num_years,75
+summary,most_dominant_driver,Lewis  Hamilton 
+summary,most_dominant_driver_points,4681.5
+summary,most_dominant_team,Ferrari
+summary,most_dominant_team_points,10701.6
+summary,most_dominant_nationality,GBR
+summary,most_dominant_nationality_points,11366.7
+summary,peak_year,2023
+summary,peak_year_points,2458.0
+summary,most_competitive_era,2011–2020
+summary,most_competitive_era_points,19933.0
